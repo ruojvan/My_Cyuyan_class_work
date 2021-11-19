@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1631699854 source:d:\在学校的\oj\c.3.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

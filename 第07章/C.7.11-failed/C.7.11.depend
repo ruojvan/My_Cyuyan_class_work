@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1632398604 source:d:\在学校的\oj\c语言程序设计-苏小红\第07章\c.7.11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

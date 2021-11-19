@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1632129180 source:d:\在学校的\oj\c语言程序设计-苏小红\第07章\例题\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"guess.h"
+
+1632132077 d:\在学校的\oj\c语言程序设计-苏小红\第07章\例题\guess.h
+
+1632130563 source:d:\在学校的\oj\c语言程序设计-苏小红\第07章\例题\makenumber.c
+	<stdio.h>
+	<assert.h>
+	"MakeNumber.h"
+
+1632130552 d:\在学校的\oj\c语言程序设计-苏小红\第07章\例题\makenumber.h
+
+1632131545 source:d:\在学校的\oj\c语言程序设计-苏小红\第07章\例题\isvalidnum.c
+	"IsValidNum.h"
+
+1632131870 d:\在学校的\oj\c语言程序设计-苏小红\第07章\例题\isvalidnum.h
+
+1632131794 source:d:\在学校的\oj\c语言程序设计-苏小红\第07章\例题\isright.c
+	<stdio.h>
+	"IsRight.h"
+
+1632131941 d:\在学校的\oj\c语言程序设计-苏小红\第07章\例题\isright.h
+
+1632131959 source:d:\在学校的\oj\c语言程序设计-苏小红\第07章\例题\guessnumber.c
+	<stdio.h>
+	"IsRight.h"
+	"IsValidNum.h"
+

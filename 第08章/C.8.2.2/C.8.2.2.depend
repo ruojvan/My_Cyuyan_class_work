@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1635229079 source:d:\在学校的\oj\c语言程序设计-苏小红\第08章\c.8.2.2\fib.c
+	<stdio.h>
+	<stdlib.h>
+
+1635229105 source:d:\在学校的\oj\c语言程序设计-苏小红\第08章\c.8.2.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"C.8.2.2.h"
+
+1635228981 d:\在学校的\oj\c语言程序设计-苏小红\第08章\c.8.2.2\c.8.2.2.h
+
